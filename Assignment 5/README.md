@@ -1,7 +1,7 @@
 # Assignment 5 - Data Persistence Engineering
 
-- Student: **Emad Farooqui**
-- Register number: **192511019**
+- Student: **Peram Vivekananda Reddy**
+- Register number: **192372330**
 - Java: **Microsoft OpenJDK 17.0.20**
 - Database used for experiments: **MySQL 8.4.5 / InnoDB**
 - JDBC driver: **MySQL Connector/J 9.2.0**
