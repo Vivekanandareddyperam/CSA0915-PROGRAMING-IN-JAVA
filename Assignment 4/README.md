@@ -1,6 +1,6 @@
 # Assignment 3 (CO3) - Exception Handling, Multithreading and Concurrency
 
-**Vignesh S - 192325002 - CSA09 Programming in Java**
+**Peram Vivekananda Reddy - 192372330 - CSA09 Programming in Java**
 
 Full write-up with every measurement: **[REPORT.md](REPORT.md)**
 
