@@ -4,8 +4,8 @@
 
 | | |
 |---|---|
-| Name | SHAIK SAMEER PASHA |
-| Register Number | 192425383 |
+| Name | Peram Vivekananda Reddy |
+| Register Number | 192372330 |
 | Course | CSA09 - Programming in Java |
 | Assignment | 3 (CO3) |
 | Total Marks | 50 |
