@@ -3,8 +3,8 @@
 ## Data Structures and Collections - Experimental Analysis
 
 ### Student Details
-- Name: Shaik Sameer Pasha
-- Register Number: 192425383
+- Name: Peram Vivekananda reddy
+- Register Number: 192372330
 - Programming Language: Java
 - IDE: Visual Studio Code
 - Java Version: 25.0.5
